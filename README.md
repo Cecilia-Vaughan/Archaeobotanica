@@ -1,2 +1,2 @@
 # Archaeobotanica
-A resource for learning Archaeobotanical Science
+A learning resource for Archaeobotany
